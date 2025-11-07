@@ -3,7 +3,7 @@
 - About how long did you work on this problem?
 - GenAI Conversation link (if used):
 
-## SQL to create and export the desired table
+## SQL to create and export the desired table (**Don't forget to upload your CSV!**)
 ```sql
 
 ```
